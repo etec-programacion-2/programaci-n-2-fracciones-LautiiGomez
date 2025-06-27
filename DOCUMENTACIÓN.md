@@ -1,7 +1,7 @@
 ### Documentación
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Git](https://img.shields.io/badge/BookStack-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Git](https://img.shields.io/badge/BookStack-0288D1?style=for-the-badge&logo=git&logoColor=white)
 
 ### Etapa 1: Definición de la clase
 
